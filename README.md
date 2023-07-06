@@ -1,3 +1,3 @@
 #### Practicing data analysis using python
 
-Currently unfinished
+unfinished, still working on it
